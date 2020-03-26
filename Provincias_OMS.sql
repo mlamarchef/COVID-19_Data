@@ -1,3 +1,6 @@
+CREATE DATABASE Provincias_rd
+GO
+
 USE [Provincias_rd]
 GO
 
